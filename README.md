@@ -1,7 +1,7 @@
 phpNT - Yandex Map Widget
 ================================
 ------------
-### - [Поддержать phpNT](http://www.phpnt.com)
+### - [Поддержать phpNT](http://phpnt.com/donate/index) 
 ------------
 ### Социальные сети
  - [Канал YouTube](https://www.youtube.com/c/phpnt)
@@ -11,7 +11,7 @@ phpNT - Yandex Map Widget
 
 Отображает карту города с метками адресов.
 ------------
-### [DEMO](http://bd.phpnt.com/520555/companies/view/23.html)
+### [DEMO](http://phpnt.com/widget/yandex-map)
 ------------
 Установка
 ------------
