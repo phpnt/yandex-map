@@ -3,9 +3,11 @@ phpNT - Yandex Map Widget
 
 ### Описание:
 ## Отображает карту города с метками адресов.
+
 ------------
 
 ### - [Поддержать phpNT](http://phpnt.com/donate/index) 
+
 ------------
 
 ### Социальные сети:
@@ -14,8 +16,11 @@ phpNT - Yandex Map Widget
  - [Группа facebook](https://www.facebook.com/Phpnt-595851240515413/)
 
 ### [DEMO](http://phpnt.com/widget/yandex-map)
+
 ------------
+
 Установка:
+
 ------------
 
 ```
