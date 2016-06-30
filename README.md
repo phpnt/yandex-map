@@ -3,7 +3,7 @@ phpNT - Yandex Map Widget
 ------------
 ### - [Поддержать phpNT](http://phpnt.com/donate/index) 
 ------------
-### Социальные сети
+### Социальные сети:
  - [Канал YouTube](https://www.youtube.com/c/phpnt)
  - [Группа VK](https://vk.com/phpnt)
  - [Группа facebook](https://www.facebook.com/Phpnt-595851240515413/)
@@ -13,7 +13,7 @@ phpNT - Yandex Map Widget
 ------------
 ### [DEMO](http://phpnt.com/widget/yandex-map)
 ------------
-Установка
+Установка:
 ------------
 
 ```
@@ -31,7 +31,7 @@ composer require phpnt/yandex-map
 "phpnt/yandex-map": "*"
 ```
 
-### Представление
+### Представление:
 ------------
 ```php
 <?php
@@ -84,7 +84,7 @@ YandexMaps::widget(
     ]); ?>
 ```
 ------------
-# Документация
+# Документация:
 ## [Яндекс карты API](https://tech.yandex.ru/maps/)
 ------------
 ### Версия:
