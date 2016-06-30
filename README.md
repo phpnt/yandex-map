@@ -41,7 +41,8 @@ composer require phpnt/yandex-map
 <?php
 use phpnt\yandexMap\YandexMaps;
 
-/* Передаем в виджет массив или объект c адресами, обязательными полями address, latitude, longitude. В свойстах cityLat и cityLon указываем координаты города. */
+// Передаем в виджет массив или объект c адресами, обязательными полями address, latitude, longitude. 
+// В свойстах cityLat и cityLon указываем координаты города. */
 
 $addresses = [
     [
@@ -71,7 +72,7 @@ $addresses = [
     ],
 ];
 
-/* массив */
+// массив 
 echo YandexMaps::widget(
     [
         'addresses' => $addresses,
@@ -79,7 +80,7 @@ echo YandexMaps::widget(
         'cityLon'   => 44.00
     ]);
 
-/* объект */
+// объект
 YandexMaps::widget(
     [
         'addresses' => $widget->addresses,
