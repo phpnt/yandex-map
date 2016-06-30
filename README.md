@@ -42,7 +42,7 @@ composer require phpnt/yandex-map
 use phpnt\yandexMap\YandexMaps;
 
 // Передаем в виджет массив или объект c адресами, обязательными полями address, latitude, longitude. 
-// В свойстах cityLat и cityLon указываем координаты города. */
+// В свойстах cityLat и cityLon указываем координаты города.
 
 $addresses = [
     [
