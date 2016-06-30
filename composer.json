@@ -1,0 +1,28 @@
+{
+    "name": "phpnt/yandex-map",
+    "description": "Yii2 Yandex Map widget",
+    "keywords": ["yii2", "phpnt", "yandex", "map", "widget"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability" : "dev",
+    "prefer-stable": true,
+    "support": {
+        "source": "https://github.com/phpnt/yandex-map"
+    },
+    "authors": [
+        {
+            "name": "phpNT",
+            "email": "phpnt@phpnt.com",
+            "homepage": "http://phpnt.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "phpnt\\yandexMap\\": ""
+        }
+    }
+}
