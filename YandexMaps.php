@@ -23,8 +23,7 @@ class YandexMaps extends Widget
     public $windowWidth = '100%';
     public $windowHeight = '400px';
 
-    public function init()
-    {
+    public function init()    {
         parent::init();
         $this->myPlacemarks = ArrayHelper::toArray($this->myPlacemarks);
         $this->mapOptions = Json::encode($this->mapOptions);
@@ -83,7 +82,7 @@ class YandexMaps extends Widget
                     myPlacemarks[i]['options'][2],
                     myPlacemarks[i]['options'][3],
                     myPlacemarks[i]['options'][4],
-                    myPlacemarks[i]['options'][5],
+                    myPlacemarks[i]['options'][5]
                     );
                 
                     myMap.geoObjects.add(myPlacemark);
